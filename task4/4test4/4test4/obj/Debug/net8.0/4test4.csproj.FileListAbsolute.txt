@@ -1,0 +1,14 @@
+C:\Users\pip26\Desktop\perlab\4test4\4test4\bin\Debug\net8.0\4test4.exe
+C:\Users\pip26\Desktop\perlab\4test4\4test4\bin\Debug\net8.0\4test4.deps.json
+C:\Users\pip26\Desktop\perlab\4test4\4test4\bin\Debug\net8.0\4test4.runtimeconfig.json
+C:\Users\pip26\Desktop\perlab\4test4\4test4\bin\Debug\net8.0\4test4.dll
+C:\Users\pip26\Desktop\perlab\4test4\4test4\bin\Debug\net8.0\4test4.pdb
+C:\Users\pip26\Desktop\perlab\4test4\4test4\obj\Debug\net8.0\4test4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pip26\Desktop\perlab\4test4\4test4\obj\Debug\net8.0\4test4.AssemblyInfoInputs.cache
+C:\Users\pip26\Desktop\perlab\4test4\4test4\obj\Debug\net8.0\4test4.AssemblyInfo.cs
+C:\Users\pip26\Desktop\perlab\4test4\4test4\obj\Debug\net8.0\4test4.csproj.CoreCompileInputs.cache
+C:\Users\pip26\Desktop\perlab\4test4\4test4\obj\Debug\net8.0\4test4.dll
+C:\Users\pip26\Desktop\perlab\4test4\4test4\obj\Debug\net8.0\refint\4test4.dll
+C:\Users\pip26\Desktop\perlab\4test4\4test4\obj\Debug\net8.0\4test4.pdb
+C:\Users\pip26\Desktop\perlab\4test4\4test4\obj\Debug\net8.0\4test4.genruntimeconfig.cache
+C:\Users\pip26\Desktop\perlab\4test4\4test4\obj\Debug\net8.0\ref\4test4.dll

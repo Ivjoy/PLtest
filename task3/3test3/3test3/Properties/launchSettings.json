@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "3test3": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\pip26\\Desktop\\perlab\\3test3\\3test3\\tests.json\r\nC:\\Users\\pip26\\Desktop\\perlab\\3test3\\3test3\\values.json"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\pip26\Desktop\perlab\2test2\2test2\bin\Debug\net8.0\2test2.exe
+C:\Users\pip26\Desktop\perlab\2test2\2test2\bin\Debug\net8.0\2test2.deps.json
+C:\Users\pip26\Desktop\perlab\2test2\2test2\bin\Debug\net8.0\2test2.runtimeconfig.json
+C:\Users\pip26\Desktop\perlab\2test2\2test2\bin\Debug\net8.0\2test2.dll
+C:\Users\pip26\Desktop\perlab\2test2\2test2\bin\Debug\net8.0\2test2.pdb
+C:\Users\pip26\Desktop\perlab\2test2\2test2\obj\Debug\net8.0\2test2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pip26\Desktop\perlab\2test2\2test2\obj\Debug\net8.0\2test2.AssemblyInfoInputs.cache
+C:\Users\pip26\Desktop\perlab\2test2\2test2\obj\Debug\net8.0\2test2.AssemblyInfo.cs
+C:\Users\pip26\Desktop\perlab\2test2\2test2\obj\Debug\net8.0\2test2.csproj.CoreCompileInputs.cache
+C:\Users\pip26\Desktop\perlab\2test2\2test2\obj\Debug\net8.0\2test2.dll
+C:\Users\pip26\Desktop\perlab\2test2\2test2\obj\Debug\net8.0\refint\2test2.dll
+C:\Users\pip26\Desktop\perlab\2test2\2test2\obj\Debug\net8.0\2test2.pdb
+C:\Users\pip26\Desktop\perlab\2test2\2test2\obj\Debug\net8.0\2test2.genruntimeconfig.cache
+C:\Users\pip26\Desktop\perlab\2test2\2test2\obj\Debug\net8.0\ref\2test2.dll

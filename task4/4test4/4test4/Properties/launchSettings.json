@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "4test4": {
+      "commandName": "Project",
+      "commandLineArgs": "numbers.txt\r\n   \r\n"
+    }
+  }
+}

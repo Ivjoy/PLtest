@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pip26\\Desktop\\perlab\\3test3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B52A0D7C-9A24-4F5D-9254-DA5BAA21C689}|3test3\\3test3.csproj|c:\\users\\pip26\\desktop\\perlab\\3test3\\3test3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B52A0D7C-9A24-4F5D-9254-DA5BAA21C689}|3test3\\3test3.csproj|solutionrelative:3test3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B52A0D7C-9A24-4F5D-9254-DA5BAA21C689}|3test3\\3test3.csproj|c:\\users\\pip26\\desktop\\perlab\\3test3\\3test3\\3test3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B52A0D7C-9A24-4F5D-9254-DA5BAA21C689}|3test3\\3test3.csproj|solutionrelative:3test3\\3test3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pip26\\Desktop\\perlab\\3test3\\3test3\\bin\\Debug\\net8.0\\report.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:3test3\\bin\\Debug\\net8.0\\report.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B52A0D7C-9A24-4F5D-9254-DA5BAA21C689}|3test3\\3test3.csproj|c:\\users\\pip26\\desktop\\perlab\\3test3\\3test3\\values.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B52A0D7C-9A24-4F5D-9254-DA5BAA21C689}|3test3\\3test3.csproj|solutionrelative:3test3\\values.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B52A0D7C-9A24-4F5D-9254-DA5BAA21C689}|3test3\\3test3.csproj|c:\\users\\pip26\\desktop\\perlab\\3test3\\3test3\\tests.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B52A0D7C-9A24-4F5D-9254-DA5BAA21C689}|3test3\\3test3.csproj|solutionrelative:3test3\\tests.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B52A0D7C-9A24-4F5D-9254-DA5BAA21C689}|3test3\\3test3.csproj|c:\\users\\pip26\\desktop\\perlab\\3test3\\3test3\\3test3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B52A0D7C-9A24-4F5D-9254-DA5BAA21C689}|3test3\\3test3.csproj|solutionrelative:3test3\\3test3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 581,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "report.json",
+              "DocumentMoniker": "C:\\Users\\pip26\\Desktop\\perlab\\3test3\\3test3\\bin\\Debug\\net8.0\\report.json",
+              "RelativeDocumentMoniker": "3test3\\bin\\Debug\\net8.0\\report.json",
+              "ToolTip": "C:\\Users\\pip26\\Desktop\\perlab\\3test3\\3test3\\bin\\Debug\\net8.0\\report.json",
+              "RelativeToolTip": "3test3\\bin\\Debug\\net8.0\\report.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T20:41:49.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "3test3",
+              "DocumentMoniker": "C:\\Users\\pip26\\Desktop\\perlab\\3test3\\3test3\\3test3.csproj",
+              "RelativeDocumentMoniker": "3test3\\3test3.csproj",
+              "ToolTip": "C:\\Users\\pip26\\Desktop\\perlab\\3test3\\3test3\\3test3.csproj",
+              "RelativeToolTip": "3test3\\3test3.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-16T20:38:28.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pip26\\Desktop\\perlab\\3test3\\3test3\\Program.cs",
+              "RelativeDocumentMoniker": "3test3\\Program.cs",
+              "ToolTip": "C:\\Users\\pip26\\Desktop\\perlab\\3test3\\3test3\\Program.cs",
+              "RelativeToolTip": "3test3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:10:41.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "3test3.csproj",
+              "DocumentMoniker": "C:\\Users\\pip26\\Desktop\\perlab\\3test3\\3test3\\3test3.csproj",
+              "RelativeDocumentMoniker": "3test3\\3test3.csproj",
+              "ToolTip": "C:\\Users\\pip26\\Desktop\\perlab\\3test3\\3test3\\3test3.csproj",
+              "RelativeToolTip": "3test3\\3test3.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-16T20:27:16.507Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 19,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "values.json",
+              "DocumentMoniker": "C:\\Users\\pip26\\Desktop\\perlab\\3test3\\3test3\\values.json",
+              "RelativeDocumentMoniker": "3test3\\values.json",
+              "ToolTip": "C:\\Users\\pip26\\Desktop\\perlab\\3test3\\3test3\\values.json",
+              "RelativeToolTip": "3test3\\values.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T20:22:20.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tests.json",
+              "DocumentMoniker": "C:\\Users\\pip26\\Desktop\\perlab\\3test3\\3test3\\tests.json",
+              "RelativeDocumentMoniker": "3test3\\tests.json",
+              "ToolTip": "C:\\Users\\pip26\\Desktop\\perlab\\3test3\\3test3\\tests.json",
+              "RelativeToolTip": "3test3\\tests.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T20:27:24.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

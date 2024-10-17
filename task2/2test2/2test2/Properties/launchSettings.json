@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "2test2": {
+      "commandName": "Project",
+      "commandLineArgs": "circle.txt points.txt"
+    }
+  }
+}
